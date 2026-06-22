@@ -1,19 +1,21 @@
-# StickerSwap ⚽🏆 (World Cup 2026 Tracker)
+# StickerSwap ⚽🏆 (World Cup 2026 Matchmaking App)
 
-> 🔒 **Note:** This is a private commercial project scheduled for launch in 2026. This repository serves as a portfolio showcase. Source code is available for review during live interviews upon request.
+🔒 **Note:** This is a private commercial project scheduled for launch in 2026. This repository serves as a portfolio showcase. Source code and live architecture are available for review during technical interviews upon request.
 
-A responsive mobile application designed to track match schedules and team statistics for the upcoming World Cup 2026.
+StickerSwap is a cross-platform mobile application designed to revolutionize how collectors trade World Cup 2026 stickers. Featuring a "Tinder-style" matching algorithm, it connects nearby collectors to optimize sticker exchanges in real-time.
 
-## 🚀 Features
-- **Live Tracking:** Real-time updates on match schedules and scores.
-- **Dynamic UI:** Built with **React Hooks** (`useState`, `useEffect`) for smooth state management.
-- **Data Integration:** Fetches team and match data from external **REST APIs**.
-- **Responsive Design:** Optimized for mobile and desktop viewing.
+## 🚀 Key Features
+
+* **Smart Matchmaking:** "Tinder-style" filtering logic to match users based on missing and duplicate stickers.
+* **Real-Time Database:** Live synchronization of user profiles and inventory lists.
+* **Secure Authentication:** User signup, login, and session management.
+* **Geolocated Trades:** Connects collectors within the same local areas for physical trades.
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), CSS3.
-- **Data:** REST APIs / JSON.
-- **Version Control:** Git & GitHub.
+
+* **Frontend:** React Native, JavaScript (ES6+), React Hooks.
+* **Backend & Database:** Supabase, PostgreSQL, SQL.
+* **Version Control:** Git & GitHub.
 
 ## 📸 Screenshots
 ![photo_2025-12-10_10-08-03](https://github.com/user-attachments/assets/c576cd03-1092-4d7a-ae0c-87b17b5c15a2)
